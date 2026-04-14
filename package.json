@@ -9,6 +9,7 @@
 		"preview": "vite preview"
 	},
 	"dependencies": {
+		"@lb-01/fsfmat-calculator": "^2.0.1",
 		"preact": "^10.26.9"
 	},
 	"devDependencies": {
